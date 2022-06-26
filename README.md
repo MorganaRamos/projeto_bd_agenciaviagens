@@ -1,4 +1,4 @@
-# ProjetoBancoDados
+# ProjetoBancoDados_AgenciaDeViagens
 Projeto elaborado em colaboração com Emanuel Beco (https://github.com/Manubeco) para a disciplina de Ambiente de Dados na Universidade de Fortaleza.
 
 Cenário
